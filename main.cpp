@@ -1,6 +1,3 @@
-//Gabriel Zacarias CSE 110 - Project One
-//This project was to output weatherdata on the console and write on a text document.
-
 #include <iostream>
 #include <fstream>
 #include <cmath>
