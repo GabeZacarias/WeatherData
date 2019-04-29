@@ -5,3 +5,6 @@ Read numbers from file and output data to console in weather data format and wri
         - User will be advised of this issue
  - Wind Chill will be calcuated based on equation and the use of temperature and windSpeed
  - Cloud Base will be calcuated based on equation and the use of temperature and dewPoint
+
+#RunProgram
+This program can't be run as a .exe file because it uitilizes a txt file for input
